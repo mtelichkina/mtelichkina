@@ -6,7 +6,7 @@
 - * *yoga*
 - * *books*
 - 🌱 I’m currently learning *Front-end Web Development*
-- 📫 How to reach me - *you can text me* **mtelichkinayahoo.com**
+- 📫 How to reach me - *you can text me* **mtelichkina@yahoo.com**
 
 
 
