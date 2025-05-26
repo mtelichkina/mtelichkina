@@ -1,10 +1,6 @@
 - 👋 Hi, I’m ***Mariia***
 - 👀 I’m interested in 
 - * *Front-end Web Development*
-- * *theatre*
-- * *art*
-- * *yoga*
-- * *books*
 - 🌱 I’m currently learning *Front-end Web Development*
 - 📫 How to reach me - *you can text me* **mtelichkina@yahoo.com**
 
